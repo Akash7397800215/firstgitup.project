@@ -1,5 +1,7 @@
 # firstgitup.project
 this is my first git repository
 <BR>
+<<<<<<< HEAD
 Author - Akash  Dubele 
-adding a line so the i can commit this project.
+new line added
+this is the last check 
